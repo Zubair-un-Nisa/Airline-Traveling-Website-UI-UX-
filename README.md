@@ -1,1 +1,3 @@
 # Airline-Traveling-Website-UI-UX-
+
+The purpose of this website is to allow passengers who want to travel to another country to book their tickets from anywhere. The website is interactive, and first, the user will log in with their ID, then they will arrive at the home page. This website also gives users suggestions to explore different countries and informs them about the services that will be provided. If the user wants to know details about a specific place, they can also check that through this website. Additionally, if they have any further queries, they can ask through the contact section.
